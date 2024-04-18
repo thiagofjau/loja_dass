@@ -1,0 +1,12 @@
+img {
+    height: 50%;
+    width: 50%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+video {
+    height: 10%;
+    width: 60%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
